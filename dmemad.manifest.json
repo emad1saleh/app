@@ -1,0 +1,20 @@
+{
+  "name": "دبلوم إدارة الاعمال",
+  "short_name": "دبلوم إدارة الاعمال",
+  "icons": [
+    {
+      "src": "https://novbook.net/img/logo_round.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://pngimg.com/d/book_PNG51112.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://dr.emad1saleh.com/p/blog-page.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3"
+}
